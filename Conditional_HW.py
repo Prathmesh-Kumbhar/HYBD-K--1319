@@ -14,3 +14,8 @@ for i in student_marks:
 print("Even Marks List is : ",even_marks)
 print("ODD Marks List is : ",odd_marks)
 
+'''
+    It will print the 2 sub lists of even marks and odd marks
+    Even Marks List is :  [88, 12, 76, 78, 98, 66, 96, 94, 88, 78, 56, 46]
+    ODD Marks List is :  [55, 45, 15, 45, 75, 15, 99, 95, 75, 25, 55, 77]
+'''
