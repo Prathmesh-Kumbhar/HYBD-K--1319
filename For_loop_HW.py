@@ -118,6 +118,9 @@ for num in range(1,20):           ## It will generate the numbers from 1 to 19
     else:
         print(num)
 
+''' It Will print the prime numbers between 1 to 20 '''
+
+
 # Q) Find the Prime numbers to the range of 500 to 1000
 
 
@@ -126,4 +129,7 @@ for num in range(500,1000):    ## It will generate the numbers from 500 to 999
         if num%i==0:
             break
     else:
+
         print(num)
+
+''' It Will print the prime numbers between 500 to 1000 '''
