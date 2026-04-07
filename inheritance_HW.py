@@ -1,4 +1,4 @@
-# Herarchichal Inheritance
+# Hierarchical Inheritance
 
 # Parent class (Base class)
 class A:
